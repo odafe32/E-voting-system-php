@@ -11,6 +11,7 @@
     <!-- iCheck for checkboxes and radio inputs -->
     <link rel="stylesheet" href="plugins/iCheck/all.css">
   	<!-- DataTables -->
+       <link rel="icon" href="assets/img/favicon.png" sizes="20x20" type="image/png"/>
     <link rel="stylesheet" href="bower_components/datatables.net-bs/css/dataTables.bootstrap.min.css">
   	<!-- Font Awesome -->
   	<link rel="stylesheet" href="bower_components/font-awesome/css/font-awesome.min.css">

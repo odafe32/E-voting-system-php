@@ -142,7 +142,7 @@
         <div class="nav-right-content">
          
           <div class="btn-wrapper">
-            <a href="index.php" class="boxed-btn btn-sanatory">
+            <a href="signin.php" class="boxed-btn btn-sanatory">
              Vote Now 
               <i class="icon-paper-plan"></i>
             </a>
@@ -220,7 +220,7 @@
           <div class="row">
               <div class="col-lg-4 col-md-12">
                   <div class="our-vision-item wow animate__animated animate__fadeInLeft">
-                      <div class="vision-bg" style="background:black;">
+                      <div class="vision-bg" style="background:red;">
                         <div class="content">
                           <div class="subtitle">
                             <p>E-Voting </p>
@@ -287,9 +287,7 @@
                       </div>
                       <div class="col-lg-6 col-md-6">
                         <div class="our-vision-single-item wow animate__animated animate__fadeInRight animate__delay-1s">
-                            <div class="icon">
-                              <i class="icon-target-3696"></i>
-                            </div>
+                            
                             <div class="content">
                                 <h4 class="title">Get Involved</h4>
                                 <p>
